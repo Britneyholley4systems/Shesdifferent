@@ -1,7 +1,7 @@
 # Britneyholley4systems
 # Hi there, I'm Britney! 👋
 
-![Banner Image](britney-banner.jpg)
+[Banner Image](britney-banner.jpg)
 
 ## About Me 🚀
 
