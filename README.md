@@ -1,5 +1,5 @@
 # Britneyholley4systems
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Britney! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
