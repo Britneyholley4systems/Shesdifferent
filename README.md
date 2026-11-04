@@ -1,7 +1,7 @@
 # Britneyholley4systems
 # Hi there, I'm Britney! 👋
 
-![Banner Image](your_banner_image_url_here)
+![My GitHub Banner](britney-banner.jpg)
 
 ## About Me 🚀
 
